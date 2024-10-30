@@ -1,7 +1,6 @@
  👋 Hi, I’m @kevincyubahiro
--a'm graphic designer
-- 🌱 I’m web developer
-- 💞️ I’m web 3.0
+
+ 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
