@@ -1,6 +1,12 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=4229F7&width=435&lines=Hello+%F0%9F%91%8B%F0%9F%91%8BThere;A'm+Kevin+CYUBAHIRO;I+have+skilled+Withs+Blockchain+;WEB+3.0+%26+WEB+2.0;Non-Relational++%26;Relational+databases;Machine+learning;Devops+%26+Github;Graphic+Designer" alt="Typing SVG" /></a>
+<h1 align="center" font-family="sans" color="blue">Hi there👋, I'm Kevin CYUBAHIRO</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Blockchain+Developer;Web3.0+Application+Developer;Smart+Contract+Developer;Smart+Contract+Auditor;Relational+Databases+Developer)](https://git.io/typing-svg)
+
+<img src='./welcome.jpg' height='400px' width="1000px"/>
+
+<!-- ![Web3.0-Illustration](./welcome.jpg) -->
+
 </div>  
   
 
