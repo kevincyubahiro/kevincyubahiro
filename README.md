@@ -5,6 +5,17 @@
   
 
 
+<div style="text-align: center;"> 
+    <a href="mailto:jeanaimeiraguha@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="#"> 
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> 
+    </a>
+    <a href="https://iraguha-jeanaime.netlify.app" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    </a>
+</div>
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/kevin cyubahiro/github-profilinator)  
   
