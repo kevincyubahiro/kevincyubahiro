@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=4229F7&width=435&lines=Hello+%F0%9F%91%8B%F0%9F%91%8BThere;A'm+Kevin+CYUBAHIRO;I+have+skilled+Withs+Blockchain+;WEB+3.0+%26+WEB+2.0;Non-Relational++%26;Relational+databases;Machine+learning;Devops+%26+Github;Graphic+Designer" alt="Typing SVG" /></a>
 </div>  
   
 
